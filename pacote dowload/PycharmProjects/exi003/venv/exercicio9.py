@@ -1,7 +1,0 @@
-n=int(input('Digite um numero:'))
-d=(n*2)
-t=(n*3)
-r=pow(n,(1/2))
-print('O dobro de {} é {}'.format(n,d))
-print('e o seu triplo é {}'.format(t))
-print('e sua raiz quadrada é {:.3f}'.format(r))
